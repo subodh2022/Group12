@@ -13,7 +13,6 @@ public class Intit {
 		
 		
 		String TeamName = "Groip_12";
-		Team();
 		
 		
 
@@ -21,7 +20,7 @@ public class Intit {
 	
 	public static void Team()
 	{
-		System.out.println("welcome gusys in our group" +TeamName );
+		System.out.println("welcome gusys in ourv group" +TeamName );
 	}
 
 }
